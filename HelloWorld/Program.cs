@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HellloWorld
+namespace HelloWorld
 {
     class Program
     {
